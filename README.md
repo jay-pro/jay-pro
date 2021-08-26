@@ -5,7 +5,8 @@
 ### My information ❁
 
 - 🔭 My name is Bùi Hà Nhi. The Chinese one is 河儿
-- 📫 How to reach me: [Facebook - Hà Nhi](https://facebook.com/bhanih)
+- 📑 My resume: [TopCV](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
+- 📫 How to reach me: [Facebook](https://facebook.com/bhanih)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
 
