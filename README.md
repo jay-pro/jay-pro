@@ -11,26 +11,11 @@
 
 
 ### GIT BASH 🖥️
-- git branch (dev_Nhi)
-- git add .
-- git commit -m "update"
-- git push origin dev_Nhi
-- git checkout main
-- git branch (main)
-- git pull origin main
-- git merge dev_Nhi
-- {if conflict:
--  i
--  /*enter*/
--  git commit -m "conflict update1.5"
--  /*esc*/
--  /*below the white line letters*/
--  :wq
-- }
-- git add .
-- git commit -m "update2"
-- git push origin main
-- git checkout dev_Nhi
-- git branch (dev_Nhi)
-
-
+git branch (dev_Nhi)        {if conflict:                             git add .
+git add .                     i                                       git commit -m "update2"
+git commit -m "update"        /*enter*/                               git push origin main
+git push origin dev_Nhi       git commit -m "conflict update1.5"      git checkout dev_Nhi
+git checkout main             /*esc*/                                 git branch (dev_Nhi)
+git branch (main)             /*below the white line letters*/
+git pull origin main          :wq
+git merge dev_Nhi            }
