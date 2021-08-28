@@ -12,7 +12,7 @@
 
 
 ### SOMEPINS 🌱
-[![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=MatPlotLib-for-Python-Developers---Advanced)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
+[![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
 
 
 ### GIT BASH 🖥️
