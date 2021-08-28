@@ -12,6 +12,16 @@
 
 
 ### I SPEAK 👾
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jay-pro&theme=blueberry" alt="jay-pro"/>
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=jay-pro&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=45% height="200px"/>
+</p>
+
 [![My university projects](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro&theme=blueberry)](https://github.com/jay-pro)
 [![Hani Self Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro)](https://github.com/jay-proo)
 
