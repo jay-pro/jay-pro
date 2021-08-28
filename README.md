@@ -27,4 +27,4 @@ git merge dev_Nhi         }
 
 
 ### SOMEPINS 🌱
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=intercom_desktop&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=MatPlotLib&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
