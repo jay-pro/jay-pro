@@ -11,6 +11,11 @@
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
 
 
+### I SPEAK 👾
+[![My university projects](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro)](https://github.com/jay-pro)
+[![Hani Self Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-proo)](https://github.com/jay-proo)
+
+
 ### SOMEPINS 🌱
 [![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
 
