@@ -6,17 +6,22 @@
 
 - 🌸 My name is Bùi Hà Nhi. The Chinese one is 河儿
 - 📑 My resume: [TopCV](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
-- 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn]() || [Ko-fi]()
+- 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/) || [Ko-fi](https://ko-fi.com/buihanhi)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
 
 
 ### GIT BASH 🖥️
-git branch (dev_Nhi)        {if conflict:                             git add .
-git add .                     i                                       git commit -m "update2"
-git commit -m "update"        /*enter*/                               git push origin main
-git push origin dev_Nhi       git commit -m "conflict update1.5"      git checkout dev_Nhi
-git checkout main             /*esc*/                                 git branch (dev_Nhi)
-git branch (main)             /*below the white line letters*/
-git pull origin main          :wq
-git merge dev_Nhi            }
+<!--START_SECTION:waka-->
+```text
+git branch (dev_Nhi)      {if problem:                         git add .
+git add .                 i                                    git commit -m "update2"
+git commit -m "update"    /*enter*/                            git push origin main
+git push origin dev_Nhi   git commit -m "conflict update1.5"   git checkout dev_Nhi
+git checkout main         /*esc*/                              git branch (dev_Nhi)
+git branch (main          /*below the white line letters*/
+git pull origin main      :wq
+git merge dev_Nhi         }
+```
+<!--END_SECTION:waka-->
+
