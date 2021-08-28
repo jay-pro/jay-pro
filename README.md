@@ -14,9 +14,8 @@
 
 <img src='https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif'>
 
-### SOMEPINS 🌱
+### SOME PINS OUTSIDE OF MY UNIVERSITY PROJECTS 🌱
 [![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
-
 
 ### GIT BASH 🖥️
 <!--START_SECTION:waka-->
@@ -31,5 +30,3 @@ git pull origin main      :wq
 git merge dev_Nhi         }
 ```
 <!--END_SECTION:waka-->
-
-
