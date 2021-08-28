@@ -12,8 +12,8 @@
 
 
 ### I SPEAK 👾
-[![My university projects](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro)](https://github.com/jay-pro)
-[![Hani Self Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-proo)](https://github.com/jay-proo)
+[![My university projects](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro&theme=blueberry)](https://github.com/jay-pro)
+[![Hani Self Learning](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro)](https://github.com/jay-proo)
 
 
 ### SOMEPINS 🌱
