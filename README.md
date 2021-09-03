@@ -13,12 +13,14 @@
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/rBvY9JrBUZz5GHykn-aSFx58rNyzDIXP17LucrwoRQnHKImAPsARx-57vv9MON_sAYKHMT9q1hYGSEFqsKrR5lQY1UkStpxzJNN26I4fNhxxNDQi6oVR0oyrgV_TrW8zExpkt2SyRVtpTA" width="50" /></a></td>
   </tr>
   <tr>
     <td width="160" align="center">💙<br />HTML</td>
     <td width="160" align="center">💙<br />CSS</td>
     <td width="160" align="center">💙<br />JS</td>
     <td width="160" align="center">💙<br />React</td>
+    <td width="160" align="center">💙<br />Python</td>
   </tr>
 </table>
 <p>
