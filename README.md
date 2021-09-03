@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
-    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://www.pikpng.com/pngl/m/144-1446857_snake-harrypotter-hogwarts-slytherin-illustration-clipart.png" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/5VxBtr_ZXF49eNwdS6eJsLxwY_wIgY6ZyfNJKmVdGkhHjHGYW-J2XEiMNHm7sDfUG_A0660R9rYpPhp_twEN9h_XVlLJChn5XT1kSd16jtbbKVi2Ow7tJUsqIeHbBktBm2WDzKM61KuFxD8607yKQmXEtdxn87xaRUxapd-Wdg" width="50" /></a></td>
   </tr>
   <tr>
