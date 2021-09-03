@@ -20,7 +20,7 @@
   <tr>
     <td width="160" align="center">💙<br />HTML</td>
     <td width="160" align="center">💙<br />CSS</td>
-    <td width="160" align="center">💙<br />JS</td>
+    <td width="160" align="center">💙<br />JavaScript</td>
     <td width="160" align="center">💙<br />React</td>
     <td width="160" align="center">💙<br />Python</td>
     <td width="160" align="center">💙<br />PHP</td>
