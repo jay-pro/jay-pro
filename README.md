@@ -7,6 +7,20 @@
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
 
 ### I SPEAK 👾
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/html-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940766?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/css-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/LoveReact" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
+  </tr>
+  <tr>
+    <td width="160" align="center">html<br />HTML</td>
+    <td width="160" align="center">css<br />CSS</td>
+    <td width="160" align="center">js<br />JS</td>
+    <td width="160" align="center">react<br />React</td>
+  </tr>
+</table>
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-pro&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=45% height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=jay-pro&count_private=true&show_icons=true&theme=blueberry" width=45% height="204px"/>
