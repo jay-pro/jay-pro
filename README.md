@@ -14,7 +14,7 @@
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/rBvY9JrBUZz5GHykn-aSFx58rNyzDIXP17LucrwoRQnHKImAPsARx-57vv9MON_sAYKHMT9q1hYGSEFqsKrR5lQY1UkStpxzJNN26I4fNhxxNDQi6oVR0oyrgV_TrW8zExpkt2SyRVtpTA" width="50" /></a></td>
-    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://w7.pngwing.com/pngs/56/999/png-transparent-blue-elephant-illustration-cartoon-drawing-illustration-cute-baby-elephant-cartoon-elephant-cartoon-character-television-blue.png" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/5VxBtr_ZXF49eNwdS6eJsLxwY_wIgY6ZyfNJKmVdGkhHjHGYW-J2XEiMNHm7sDfUG_A0660R9rYpPhp_twEN9h_XVlLJChn5XT1kSd16jtbbKVi2Ow7tJUsqIeHbBktBm2WDzKM61KuFxD8607yKQmXEtdxn87xaRUxapd-Wdg" width="50" /></a></td>
   </tr>
   <tr>
     <td width="160" align="center">💙<br />HTML</td>
