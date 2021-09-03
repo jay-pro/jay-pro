@@ -1,7 +1,8 @@
 ### Hi there 👋
 ### My information 👩🏻‍💻
 - 🌸 My name is Bùi Hà Nhi. The Chinese one is 河儿
-- 📑 My resume: [TopCV](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
+- 📑 My resume: [FPT Software Academy Intern](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
+- 📑 My resume: [Bùi Hà Nhi CV](https://i.topcv.vn/buihanhi?ref=4488082)
 - 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/) || [Ko-fi](https://ko-fi.com/buihanhi)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
