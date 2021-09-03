@@ -9,16 +9,16 @@
 ### I SPEAK 👾
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/html-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940766?s=200&v=4" width="50" /></a></td>
-    <td align="center"><a href="https://github.com/css-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
-    <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
-    <td align="center"><a href="https://github.com/LoveReact" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940766?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
+    <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
   </tr>
   <tr>
-    <td width="160" align="center">html<br />HTML</td>
-    <td width="160" align="center">css<br />CSS</td>
-    <td width="160" align="center">js<br />JS</td>
-    <td width="160" align="center">react<br />React</td>
+    <td width="160" align="center">💙<br />HTML</td>
+    <td width="160" align="center">💙<br />CSS</td>
+    <td width="160" align="center">💙<br />JS</td>
+    <td width="160" align="center">💙<br />React</td>
   </tr>
 </table>
 <p>
