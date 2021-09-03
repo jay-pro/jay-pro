@@ -38,8 +38,7 @@
 [![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-proo/MatPlotLib-for-Python-Developers---Advanced)
 [![The PHP 8 Learning](https://github-readme-stats.vercel.app/api/pin/?username=jay-proo&repo=The-PHP-8-Learning&theme=blueberry)](https://github.com/jay-proo/The-PHP-8-Learning)
 [![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
-
-
+[![E-Commerce Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=E-Commerce&theme=blueberry)](https://github.com/jay-pro/E-Commerce)
 
 ### GIT BASH 🖥️
 <!--START_SECTION:waka-->
