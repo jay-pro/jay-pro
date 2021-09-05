@@ -1,11 +1,12 @@
 ### Hi there 👋
 ### My information 👩🏻‍💻
 - 🌸 My name is Bùi Hà Nhi. The Chinese one is 河儿
-- 📑 My resume: [FPT Software Academy Intern](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
-- 📑 My resume: [Bùi Hà Nhi CV](https://i.topcv.vn/buihanhi?ref=4488082)
+- 📑 My resume 1: [FPT Software Academy Intern](https://www.topcv.vn/xem-cv/VlcEAVRTDwdXDw0GUgRaCFAFV1IAVVUNAAFWAAa11e)
+- 📑 My resume 2: [Bùi Hà Nhi CV](https://i.topcv.vn/buihanhi?ref=4488082)
 - 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/) || [Ko-fi](https://ko-fi.com/buihanhi)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 世界上最鮮明的荷儿 💐
+- 👩🏻‍🎓 My certificates of Python: [Matplotlib](https://udemy-certificate.s3.amazonaws.com/pdf/UC-81385ee3-9e2a-4497-8a69-7cce3c1d5066.pdf)
 
 ### I SPEAK 👾
 <table>
