@@ -24,7 +24,7 @@
     <td width="160" align="center">💙<br />JavaScript<br />Certificate</td>
     <td width="160" align="center">React<br />💙<br />Certificate</td>
     <td width="160" align="center">Python<br />Certificate<br />💙</td>
-    <td width="160" align="center">💙<br />PHP</td>
+    <td width="160" align="center">PHP<br />💙<br />Certificate</td>
   </tr>
 </table>
 <p>
