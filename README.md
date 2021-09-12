@@ -21,9 +21,9 @@
   <tr>
     <td width="160" align="center">HTML<br />Certificate<br />💙</td>
     <td width="160" align="center">CSS<br />💙<br />Certificate</td>
-    <td width="160" align="center">💙<br />JavaScript</td>
+    <td width="160" align="center">💙<br />JavaScript<br />Certificate</td>
     <td width="160" align="center">💙<br />React</td>
-    <td width="160" align="center">💙<br />Python <br /> Certificate</td>
+    <td width="160" align="center">💙<br />Python<br />Certificate</td>
     <td width="160" align="center">💙<br />PHP</td>
   </tr>
 </table>
