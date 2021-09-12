@@ -19,7 +19,7 @@
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars.githubusercontent.com/u/70752728?s=200&v=4" width="50" /></a></td>
   </tr>
   <tr>
-    <td width="160" align="center">💙<br />HTML</td>
+    <td width="160" align="center">HTML<br />Certificate<br />💙</td>
     <td width="160" align="center">💙<br />CSS</td>
     <td width="160" align="center">💙<br />JavaScript</td>
     <td width="160" align="center">💙<br />React</td>
