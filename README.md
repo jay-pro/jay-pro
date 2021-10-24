@@ -38,7 +38,7 @@
 #### Find them on [Hani Self Learning](https://github.com/jay-proo) 💜💜💜
 [![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-pro/MatPlotLib-for-Python-Developers---Advanced)
 [![Building Games with Pygame Python](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=BuildingGamePython&theme=blueberry)](https://github.com/jay-pro/BuildingGamePython)
-[![The PHP 8 Learning](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=The-PHP-8-Learning&theme=blueberry)](https://github.com/jay-pro/The-PHP-8-Learning)
+[![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
 [![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
 
 ### GIT BASH 🖥️
