@@ -19,12 +19,12 @@
     <td align="center"><a href="https://github.com/jay-pro" target="_blank"><img src="https://avatars.githubusercontent.com/u/70752728?s=200&v=4" width="50" /></a></td>
   </tr>
   <tr>
-    <td width="160" align="center">HTML<br />Certificate<br />💙</td>
-    <td width="160" align="center">CSS<br />💙<br />Certificate</td>
-    <td width="160" align="center">💙<br />JavaScript<br />Certificate</td>
-    <td width="160" align="center">React<br />💙<br />Certificate</td>
-    <td width="160" align="center">Python<br />Certificate<br />💙</td>
-    <td width="160" align="center">PHP<br />💙<br />Certificate</td>
+    <td width="160" align="center">HTML<br />Cer<br />💙</td>
+    <td width="160" align="center">CSS<br />💙<br />Cer</td>
+    <td width="160" align="center">💙<br />JavaScript<br />Cer</td>
+    <td width="160" align="center">React<br />💙<br />Cer</td>
+    <td width="160" align="center">Python<br />Cer<br />💙</td>
+    <td width="160" align="center">PHP<br />💙<br />Cer</td>
   </tr>
 </table>
 <p>
