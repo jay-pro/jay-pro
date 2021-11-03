@@ -1,10 +1,7 @@
 ### Hi there 👋
 ### My information 👩🏻‍💻
-- 🌸 My name is Bùi Hà Nhi. The Chinese one is 河儿
-- 📑 My resume: [Bùi Hà Nhi CV](https://i.topcv.vn/buihanhi?ref=4488082)
+- 🌸 My name is Bùi Hà Nhi
 - 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/) || [Ko-fi](https://ko-fi.com/buihanhi)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: 世界上最鮮明的荷儿 💐
 - 👩🏻‍🎓 My certificates: [Matplotlib](https://udemy-certificate.s3.amazonaws.com/pdf/UC-81385ee3-9e2a-4497-8a69-7cce3c1d5066.pdf) || [Pygame](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aba1c2f9-30b7-4acc-8983-ff9aa0543b66.pdf) || [Pygame](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8043b9ea-f8e1-4ff7-bc3f-726b94c98168.pdf)
 
 ### I SPEAK 👾
