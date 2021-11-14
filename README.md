@@ -17,9 +17,9 @@
   <tr>
     <td width="160" align="center">HTML<br />Cer<br />💙</td>
     <td width="160" align="center">CSS<br />💙<br />Cer</td>
-    <td width="160" align="center">💙<br />JavaScript<br />Cer</td>
+    <td width="160" align="center">💙<br />JavaScript<br />MERN Website</td>
     <td width="160" align="center">React<br />💙<br />Cer</td>
-    <td width="160" align="center">Python<br />Cer<br />💙</td>
+    <td width="160" align="center">Python<br />Pygame<br />💙</td>
     <td width="160" align="center">PHP<br />💙<br />Not today :) </td>
   </tr>
 </table>
