@@ -28,6 +28,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jay-pro&count_private=true&show_icons=true&theme=blueberry" width=45% height="204px"/>
 </p>
 
+![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=jay-pro&theme=nightowl&show_icons=true)
+
+
+
 <img src='https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif'>
 
 ### SOME EXTRA PINS OUTSIDE OF MY UNIVERSITY PROJECTS 🌱
