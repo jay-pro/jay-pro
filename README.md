@@ -34,7 +34,7 @@
 #### Find them on [Hani Self Learning](https://github.com/jay-proo) 💜💜💜
 [![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-pro/MatPlotLib-for-Python-Developers---Advanced)
 [![Building Games with Pygame Python](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=BuildingGamePython&theme=blueberry)](https://github.com/jay-pro/BuildingGamePython)
-[![Catch Coins Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_coins_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_coins_AIproject)
+[![Catch Point Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_point_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_point_AIproject)
 [![MERN Stack Bookstore Website](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=new_bookstore_fieldproject&theme=blueberry)](https://github.com/jay-pro/new_bookstore_fieldproject)
 [![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
 [![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
