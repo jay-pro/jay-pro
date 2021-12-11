@@ -30,14 +30,16 @@
 
 <img src='https://i.pinimg.com/originals/89/98/ad/8998adc40112985a8f29cf414925d390.gif'>
 
-### SOME EXTRA PINS OUTSIDE OF MY UNIVERSITY PROJECTS 🌱
-#### Find them on [Hani Self Learning](https://github.com/jay-proo) 💜💜💜
-[![Matplotlib for Python Developers](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=MatPlotLib-for-Python-Developers---Advanced&theme=blueberry)](https://github.com/jay-pro/MatPlotLib-for-Python-Developers---Advanced)
+### SOME REMARKABLE PROJECTS 🌱
+#### Find them on [Hani Self Learning](https://github.com/jay-proo) 💜💜
+#### Or [buihanhi.dev](https://github.com/buihanhi-dev)💜💜💜
 [![Building Games with Pygame Python](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=BuildingGamePython&theme=blueberry)](https://github.com/jay-pro/BuildingGamePython)
-[![Catch Point Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_point_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_point_AIproject)
 [![MERN Stack Bookstore Website](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=new_bookstore_fieldproject&theme=blueberry)](https://github.com/jay-pro/new_bookstore_fieldproject)
+[![Catch Point Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_point_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_point_AIproject)
 [![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
 [![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
+[![30 Powerful Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=30powerfulprojects&theme=blueberry)](https://github.com/jay-pro/30powerfulprojects)
+
 
 ### GIT BASH 🖥️
 <!--START_SECTION:waka-->
