@@ -36,10 +36,9 @@
 [![Building Games with Pygame Python](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=BuildingGamePython&theme=blueberry)](https://github.com/jay-pro/BuildingGamePython)
 [![MERN Stack Bookstore Website](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=new_bookstore_fieldproject&theme=blueberry)](https://github.com/jay-pro/new_bookstore_fieldproject)
 [![Catch Point Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_point_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_point_AIproject)
-[![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
-[![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
 [![30 Powerful Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=30powerfulprojects&theme=blueberry)](https://github.com/jay-pro/30powerfulprojects)
-
+[![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
+[![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
 
 ### GIT BASH 🖥️
 <!--START_SECTION:waka-->
