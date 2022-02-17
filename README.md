@@ -35,7 +35,7 @@
 #### Or [buihanhi.dev](https://github.com/buihanhi-dev)💜💜💜
 [![MERN Stack Bookstore Website](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=new_bookstore_fieldproject&theme=blueberry)](https://github.com/jay-pro/new_bookstore_fieldproject)
 [![Catch Point Game](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=catch_point_AIproject&theme=blueberry)](https://github.com/jay-pro/catch_point_AIproject)
-[![University Website Design](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Edufoldd&theme=blueberry)](https://github.com/jay-pro/Edufoldd)
+[![Simple Website with HTML,CSS,JS](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=Simple_Websites&theme=blueberry)](https://github.com/jay-pro/Simple_Websites)
 [![Python Real World Games](https://github-readme-stats.vercel.app/api/pin/?username=jay-pro&repo=PythonRealWorldGames&theme=blueberry)](https://github.com/jay-pro/PythonRealWorldGames)
 
 ### GIT BASH 🖥️
