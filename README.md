@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My information 👩🏻‍💻
-- 🌸 My name is Bùi Hà Nhi
+- 🌸 My name is 𝓑𝓾̀𝓲 𝓗𝓪̀ 𝓝𝓱𝓲
 - 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/)
 - Simple site: [School](https://parallel-descriptive-mouth.glitch.me/) || [Clothing]() || [Bookstore](https://new-bookstore-fieldproject.herokuapp.com/) || [Ecommerce]()
 
