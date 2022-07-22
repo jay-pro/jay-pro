@@ -3,6 +3,19 @@
 - 🌸 My name is 𝓑𝓾̀𝓲 𝓗𝓪̀ 𝓝𝓱𝓲
 - 📫 How to reach me: [Facebook](https://facebook.com/bhanih) || [LinkedIn](https://www.linkedin.com/in/h%C3%A0-nhi-b%C3%B9i-5a5b19173/)
 
+
+### TEAM BASH 🖥️
+<!--START_SECTION:waka-->
+```text
+clone in VS Code
+git branch //master            /*1 dev push*/
+git fetch origin devs_coop     git push origin devs_coop
+git checkout devs_coop         /remain devs pull*/
+git branch //branch coop       git pull origin devs_coop
+```
+<!--END_SECTION:waka-->
+
+
 ### GIT BASH 🖥️
 <!--START_SECTION:waka-->
 ```text
